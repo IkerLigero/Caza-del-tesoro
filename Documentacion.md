@@ -28,6 +28,7 @@
 - He tenido problemas a la hora de modular el código, principalmente con los parámetros pasados en las funciones de `personaje.js`.
 - La implementación del dado ha tenido que ser cambiada al menos tres veces debido a problemas de compatibilidad con `main.js`.
 - El apartado del personaje en `personaje.js` ha quedado demasiado largo, se podría haber modularizado más.
+- Al dibujar la tabla se eliminaba el cofre.
 - Problemas con los objetos primarios en `personaje.js`.
 
 ## Detalles no implementados

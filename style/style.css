@@ -43,7 +43,7 @@ td {
 
 
 #casilla_9_9{
-    z-index: 20;
+    z-index: 2000000;
     background-image: url(/images/cofre.png);
     background-position: center;
     background-size: contain;
