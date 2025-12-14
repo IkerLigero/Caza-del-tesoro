@@ -1,0 +1,54 @@
+*{
+        font-family: "Pixelify Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-optical-sizing: auto;
+    -webkit-font-smoothing: none; /* para que se vea más nítido */
+    font-smooth: never;
+    text-rendering: optimizeSpeed;
+    font-size: 30px;
+
+    margin: 0px;
+    padding: 0px;
+}
+
+h2{
+    font-size: 50px;
+}
+
+.pixel-text {
+    -webkit-font-smoothing: none;
+    font-smooth: never;
+    text-rendering: optimizeSpeed;
+}
+
+table {
+    margin: 30px auto;
+    border-collapse: separate;
+    border-spacing: 8px;
+    padding: 20px;
+}
+
+td {
+    width: 55px;
+    height: 55px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-image: url(/images/casilla.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+#casilla_9_9{
+    z-index: 20;
+    background-image: url(/images/cofre.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+
